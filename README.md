@@ -1,2 +1,2 @@
-# hello-world
-this is used for learning basic git hub
+mahindra university
+I am venkata ramana
